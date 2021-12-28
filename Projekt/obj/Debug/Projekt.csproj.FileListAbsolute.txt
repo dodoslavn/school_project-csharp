@@ -1,0 +1,9 @@
+D:\school\PAP\Projekt\Projekt\bin\Debug\Projekt.exe.config
+D:\school\PAP\Projekt\Projekt\bin\Debug\Projekt.exe
+D:\school\PAP\Projekt\Projekt\bin\Debug\Projekt.pdb
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.csprojResolveAssemblyReference.cache
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.FormMain.resources
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.Cache
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.exe
+D:\school\PAP\Projekt\Projekt\obj\Debug\Projekt.pdb
